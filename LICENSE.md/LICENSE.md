@@ -20,11 +20,11 @@ Link to privacy policy of third party service providers used by the app
 
 -	[Google Play Services](https://www.google.com/policies/privacy/)
 
--	AdMob
+-	[AdMob](https://support.google.com/admob/answer/6128543?hl=en)
 
--	Firebase Analytics
+-	[Firebase Analytics](https://firebase.google.com/policies/analytics)
 
--	Google Analytics
+-	[Google Analytics](https://policies.google.com/privacy)
 
 
 ## Log Data
